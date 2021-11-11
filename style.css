@@ -1,0 +1,29 @@
+body{
+    margin-top: 20rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding: 10rem;
+    padding-top: 10rem;
+    display: inline-block;
+    width: 100rem;
+    height: 20rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+}
+.div1 > h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4rem;
+}
+.one{
+    display: flex;
+    justify-content: center;
+}
+.div2 > #excuse{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+}
+#excuse{
+    display: flex;
+    justify-content: center;
+    padding-right: 100px;
+}
